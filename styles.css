@@ -6,12 +6,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:#2DA7EE;
+    background-color:#41AAE2;
   }
   
   .container {
     text-align: center;
-    background-color:#8ED289;
+    background-color:#99CF7C;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
